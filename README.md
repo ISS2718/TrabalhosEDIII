@@ -18,15 +18,15 @@
 
 Trabalho para a familiarização com o uso de arquivos binários em C.
 
-## Trabalho 01 [(Clique Aqui)](Trabalho%%201)
+## Trabalho 01 [(Clique Aqui)](Trabalho%20Pratico%201)
 
 Implementação de um arquivo de dados.
 
-## Trabalho 02 [(Clique Aqui)](Trabalho%%202)
+## Trabalho 02 [(Clique Aqui)](Trabalho%20Pratico%202)
 
 Implementação de um arquivo de indice.
 
-## Trabalho 03 [(Clique Aqui)](Trabalho%%203)
+## Trabalho 03 [(Clique Aqui)](Trabalho%20Pratico%203)
 
 Implementação de um grafo.
 
