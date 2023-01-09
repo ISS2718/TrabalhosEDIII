@@ -36,14 +36,14 @@ Implementação de um grafo.
   <tr align="center">
     <td>
       <a alt="nicholasestevao GitHub" href="https://github.com/nicholasestevao">
-      <img src="https://github.com/nicholasestevao.png" width=80>
+      <img src="https://github.com/nicholasestevao.png" width=115>
       <br>
       <sub>Nicholas Estevão</sub>
       </a>
     </td>
     <td>
       <a alt="ISS2718 GitHub" href="https://github.com/ISS2718">
-        <img src="https://github.com/ISS2718.png" width=80>
+        <img src="https://github.com/ISS2718.png" width=115>
         <br>
         <sub>Isaac Soares</sub>
       </a>
