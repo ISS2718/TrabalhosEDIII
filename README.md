@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="stylesheet.css">
-
 <img atl="Estrutura de Dados III" src="img/Capa.png"/>
 
 <p align="center">
@@ -11,30 +9,48 @@
 <img alt="Graph" src="https://img.shields.io/badge/data structure-Graph-orange"/>
 </p>
 
-<p>
   Neste Repositorio estão os trabalhos, feitos em dupla, durante a disciplina de Estrutura de Dados III (SCC0607), 
   lecionada pela Docente Cristina Dutra de Aguiar, para o curso de Engenharia de Computação - USP São Carlos.
-</p>
 
-<h2 align="center"> Trabalhos </h2>
+# Trabalhos
 
-<h2 align="center"> Autores </h2>
+## Trabalho 00 [(Clique Aqui)](Trabalho%200)
 
-<table align="center">
+Trabalho para a familiarização com o uso de arquivos binários em C.
+
+## Trabalho 01 [(Clique Aqui)](Trabalho%%201)
+
+Implementação de um arquivo de dados.
+
+## Trabalho 02 [(Clique Aqui)](Trabalho%%202)
+
+Implementação de um arquivo de indice.
+
+## Trabalho 03 [(Clique Aqui)](Trabalho%%203)
+
+Implementação de um grafo.
+
+# Autores
+
+<table>
   <tr align="center">
     <td>
-      <a href="https://github.com/nicholasestevao">
-      <img class="authorImage" src="https://github.com/nicholasestevao.png" width=80>
+      <a alt="nicholasestevao GitHub" href="https://github.com/nicholasestevao">
+      <img src="https://github.com/nicholasestevao.png" width=80>
       <br>
       <sub>Nicholas Estevão</sub>
       </a>
     </td>
     <td>
-      <a href="https://github.com/nicholasestevao">
-        <img class="authorImage" src="https://github.com/ISS2718.png" width=80>
+      <a alt="ISS2718 GitHub" href="https://github.com/ISS2718">
+        <img src="https://github.com/ISS2718.png" width=80>
         <br>
         <sub>Isaac Soares</sub>
       </a>
     </td>
   </tr>
 </table>
+
+ # License
+ 
+[MIT License](https://github.com/nicholasestevao/TrabalhosEDIII/blob/master/LICENSE) © [nicholasestevao](https://github.com/nicholasestevao)
