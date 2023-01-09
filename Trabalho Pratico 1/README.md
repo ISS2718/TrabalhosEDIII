@@ -1,4 +1,4 @@
-<img atl="Trabalho 01" src="img/Capa_T1.png"/>
+<img atl="Trabalho 01" src="../img/Capa_T1.png"/>
 
 ## Arquivo de Dados
 

@@ -1,4 +1,4 @@
-<img atl="Trabalho 03" src="img/Capa_T3.png"/>
+<img atl="Trabalho 03" src="../img/Capa_T3.png"/>
 
 ## Grafos
 

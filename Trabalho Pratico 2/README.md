@@ -1,4 +1,4 @@
-<img atl="Trabalho 02" src="img/Capa_T2.png"/>
+<img atl="Trabalho 02" src="../img/Capa_T2.png"/>
 
 ## Arquivo de Indice (Arvore B)
 

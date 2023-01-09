@@ -1,4 +1,4 @@
-<img atl="Trabalho 00" src="img/Capa_T0.png"/>
+<img atl="Trabalho 00" src="../img/Capa_T0.png"/>
 
 ## Leitura e Escrita em arquivos binários
 
